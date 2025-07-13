@@ -28,7 +28,7 @@ The MQ-2 gas sensor continuously checks for the presence of gases like LPG, prop
 The system prints both temperature and gas values on the Serial Monitor for real-time monitoring and debugging.
 
 ## 💻 Code Location
-🔸 The code for this simulation is available in the file: `fire_detection_system.ino`
+🔸 The code for this simulation is available in the file: `Fire_Detection_System.ino`
 
 ## 📷 Circuit Diagram
 <img width="1338" height="649" alt="Fire Detection System" src="https://github.com/user-attachments/assets/4772f9b8-125e-46f9-9029-931d9a460f20" />
